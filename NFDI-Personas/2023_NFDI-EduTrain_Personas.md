@@ -58,7 +58,6 @@ The [DALIA (Data Literacy Alliance)](https://dalia.education/) project is part o
 ## Why personas?
 
 >**Personas can in general can help us in developing, maintaining and improving EduTrain services**:
----
 >
 >![Frage](images/teaching-mouse_why.png) <!-- width="100px" align="right" -->
 >
@@ -82,8 +81,7 @@ Some NFDI consortia have already worked on personas or archaetypes to decribe th
 
 The cosortia focus on subject-specific needs and interests, while the EduTrain section with its activities is active across different disciplines and focuses education and training needs in the field of data management. However, personas or archaetypes decribed by consortia are also possible users of the section training and education.
 
->**Have a look at them here:**
----
+><big>**Have a look at them here:**</big>
 >
 >* [NFDI4Biodiversity](https://www.nfdi4biodiversity.org/en/personas/)
 >
@@ -91,7 +89,7 @@ The cosortia focus on subject-specific needs and interests, while the EduTrain s
 >
 >* <A HREF="NFDI-Personas/images/Personas NFDI4DataScience.pdf" download>NFDI4DataScience</A>
 >
-> If you are aware of more existing personas/archaetypes within other NFDI consortia, please leave us a note at the general comment section of the persona [miro-Board](https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764563028176872&cot=14)!
+>**If you are aware of more existing personas/archaetypes within other NFDI consortia, please leave us a note at the general comment section of the persona [miro-Board](https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764563028176872&cot=14)!**
 
 
 
