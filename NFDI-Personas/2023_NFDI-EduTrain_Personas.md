@@ -79,7 +79,7 @@ The [DALIA (Data Literacy Alliance)](https://dalia.education/) project is part o
 
 Some NFDI consortia have already worked on personas or archaetypes to decribe their users.
 
-The cosortia focus on subject-specific needs and interests, while the EduTrain section with its activities is active across different disciplines and focuses education and training needs in the field of data management. However, personas or archaetypes decribed by consortia are also possible users of the section training and education.
+The cosortia focus on subject-specific needs and interests, while the EduTrain section with its activities is active across different disciplines and focuses education and training needs in the field of data management. Personas or archaetypes decribed by consortia are also possible users of the section training and education.
 
 ><big>**Have a look at them here:**</big>
 >
@@ -87,34 +87,49 @@ The cosortia focus on subject-specific needs and interests, while the EduTrain s
 >
 >* [NFDI4Ing](https://nfdi4ing.de/archetypes/)
 >
->* <A HREF="NFDI-Personas/images/Personas NFDI4DataScience.pdf" download>NFDI4DataScience</A>
+>* <A HREF="NFDI-Personas/images/Personas_NFDI4DataScience.pdf" download>NFDI4DataScience</A>
 >
->**If you are aware of more existing personas/archaetypes within other NFDI consortia, please leave us a note at the general comment section of the persona [miro-Board](https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764563028176872&cot=14)!**
+>**If you are aware of more existing personas/archaetypes within other NFDI consortia, please leave us a note *(preferably with a link to the resource or a contact)* at the general comment section of the persona [miro-Board](https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764563028176872&cot=14)!**
+
+## EduTrain: Main User Groups
+
+The user group of the section EduTrain and DALIA is diverse. We expect users, from students to PIs, as well as from lecturers to research support staff working at libraries and computer centers or administrative areas.
+
+Due to time constraints, we have reduced the number of user groups to three main groups, of which we would like you to help describe one representative at a time:
+
+1. [**Learners**](https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764563238869741&cot=14)
+2. [**Lecturers**](https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764563729042924&cot=14)
+3. [**Assistants**](https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764563729192386&cot=14)
+
+Please visit our Miro-Board and help us to 
+
+1. describe the main user groups, by naming all subgroups who you can think of may fit to the three main user groups
+2. leave characterising notes and comments to decribe one persona as a representive for each main user group
+
+![Miro](NFDI-Personas/images/miro-abschnitt.png)
 
 
-
-
-## Please meet...
-
->Please help us to describe personas/archetypes that characterise the needs, goals, technical experience, accessibility requirements and other personal characteristics of the EduTrain target groups and take some time to meet them here!
+>Please help us to describe personas/archetypes that characterise the needs, goals, technical experience, accessibility requirements and other personal characteristics of the EduTrain main user groups and take some time to meet them here!
 >
 > --
 
-On the following pages, you will find a very short description of different user groups relevant for the section EduTrain and a link to a Miro-Board, where we would like you to participate in describing one persona per user group.
+><center><big><span style="color:#0abaf0" >**Thanks a lot for participating!**</span></big></center>
+
+
+## EduTrain sub user groups
+
+On the following pages, you will find a very short description of different user groups relevant for the section EduTrain and a link to a Miro-Board, where additionally may participate in describing one persona per subuser group.
 
 -> Meet the EduTrain personas on the Miro board and leave your characterising notes and comments there. Breathe some life into the personas!
 ---
 
-<span style="color:#727272" >-> If you would like to suggest more relevant user groups to also be described by personas, please leave a comment in the general comment section of the board.</span>
+<span style="color:#727272" >-> If you would like to suggest more relevant subuser groups to also be described by personas, please leave a comment in the general comment section of the board.</span>
 ---
 
 <span style="color:#727272" >-> Any general comment or additions which do not fit to a single persona, please also leave in the general comment section of the board.</span>
 ---
 
 ---
-
-><center><big><span style="color:#0abaf0" >**Thanks a lot for participating!**</span></big></center>
-
 
 ### ~~Students~~: Meet Malik and Lisa
 **The Section's premise is**: <big><span style="color:#0abaf0" >**data literacy from the start!**</span></big>
@@ -197,20 +212,13 @@ Depending on the orientation of the training courses, members of the public and 
 
 ## Contacts
 
-If you want to join TP 1 and contribute to our work, if you have ideas for us, questions, just would like to have further information or any other issue, please contact us:
+If you want to join WP 1 and contribute to our work, if you have ideas for us, questions, just would like to have further information or any other issue, please contact us:
 
-Prof. Dr.-Ing. Peter Pelz: <a href="mailto:peter.pelz@fst.tu-darmstadt.de?subject=EduTrain-Personas">
-    peter.pelz@fst.tu-darmstadt.de
-</a>
+***Prof. Dr.-Ing. Peter Pelz***: peter.pelz@fst.tu-darmstadt.de
 
-Prof. Dr. rer. nat. Sonja Herres-Pawlis: <a href="mailto:sonja.herres-pawlis@ac.rwth-aachen.de?subject=EduTrain-TP1">
-    sonja.herres-pawlis@ac.rwth-aachen.de
-</a>
+***Prof. Dr. rer. nat. Sonja Herres-Pawlis***: sonja.herres-pawlis@ac.rwth-aachen.de
 
-Britta Petersen: <a href="mailto:b.petersen@rz.uni-kiel.de?subject=EduTrain-TP1">
-    b.petersen@rz.uni-kiel.de
-</a>
+***Canan Hastik***: Canan.Hastik@fst.tu-darmstadt.de
 
-Canan Hastik: <a href="mailto:Canan.Hastik@fst.tu-darmstadt.de?subject=EduTrain-TP1">
-    Canan.Hastik@fst.tu-darmstadt.de
-</a>
+***Britta Petersen***: b.petersen@rz.uni-kiel.de
+
