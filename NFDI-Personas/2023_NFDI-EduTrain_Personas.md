@@ -116,9 +116,9 @@ Please visit our Miro-Board and help us to
 ><center><big><span style="color:#0abaf0" >**Thanks a lot for participating!**</span></big></center>
 
 
-## EduTrain sub user groups
+## EduTrain Subuser Groups
 
-On the following pages, you will find a very short description of different user groups relevant for the section EduTrain and a link to a Miro-Board, where additionally may participate in describing one persona per subuser group.
+On the following pages, you will find a short description of different user groups relevant for the section EduTrain and a link to a Miro-Board, where additionally may participate in describing one persona per subuser group.
 
 -> Meet the EduTrain personas on the Miro board and leave your characterising notes and comments there. Breathe some life into the personas!
 ---
@@ -183,9 +183,7 @@ https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764562793822486&cot=14
 
 
 ### ~~Lecturers~~: Meet Kim
-Individuals involved in higher education teaching should benefit from training opportunities to communicate the importance of research data management in their courses and prepare students accordingly...
-
-TODO
+Individuals involved in higher education teaching are important multipliers in communicating the importance of research data management. How can EduTrain and DALIA support lecturers? What do they need, what do they want and what hinders them to include RDM topics into their courses? 
 
 <big><span style="color:#0abaf0" >**Please meet lecturer Kim here:**</span></big>
 
@@ -193,10 +191,8 @@ https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764562793822486&cot=14
 
 <iframe src="https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764562793822486&cot=14" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-### Science support staff in computer centres
-Research support departments, centres or service providers within institutions can benefit from the training to enhance their research data management offerings...
-
-TODO
+### ~~Science support staff~~: Meet Fred
+Research support departments, centres or service providers within institutions may benefit from EduTrain trainings and activities to enhance knowlegde and expertise or to enhance their research data management offerings. What are needs and obstacles of a staff member from a science support team in regard to trainings in RDM?
 
 <big><span style="color:#0abaf0" >**Please meet XXX here:**</span></big>
 
@@ -204,14 +200,13 @@ https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764562793822486&cot=14
 
 <iframe src="https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764562793822486&cot=14" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-### Research funders
-Institutions that fund research projects can use the services and training opportunities to ensure that researchers develop the necessary skills for effective data management...
+### Research funders: Meet Sandra
+Institutions that fund research projects can use the services and training opportunities of EduTrain/DALIA to ensure that researchers develop the necessary skills for effective data management. How can the EduTrain activities be of benefit for a representative from a research funding organisation? 
 
-### The public and interested non-experts
-Depending on the orientation of the training courses, members of the public and interested laypersons can also benefit from the offerings in order to develop a better understanding of research data and its importance....
+### The public and interested non-experts: Meet 
+Depending on the orientation of the training courses, members of the public and interested laypersons can also benefit from the offerings in order to develop a better understanding of research data and its importance. What kind of activities could be of interest for the public and interested non-experts?  
 
 ## Contacts
-
 If you want to join WP 1 and contribute to our work, if you have ideas for us, questions, just would like to have further information or any other issue, please contact us:
 
 ***Prof. Dr.-Ing. Peter Pelz***: peter.pelz@fst.tu-darmstadt.de
