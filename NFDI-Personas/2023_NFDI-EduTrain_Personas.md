@@ -103,13 +103,13 @@ Due to time constraints, we have reduced the number of user groups to three main
 
 Please visit our Miro-Board and help us to 
 
-1. describe the main user groups, by naming all subgroups who you can think of may fit to the three main user groups
-2. leave characterising notes and comments to decribe one persona as a representive for each main user group
+1. describe the main user groups, by naming all subgroups who you can think of may fit to the three main user groups, assign existing personas from NFDI consortia
+2. leave characterising notes and comments to describe one persona as a representive for each main user group
 
 ![Miro](NFDI-Personas/images/miro-abschnitt.png)
 
 
->Please help us to describe personas/archetypes that characterise the needs, goals, technical experience, accessibility requirements and other personal characteristics of the EduTrain main user groups and take some time to meet them here!
+>Please help us to describe personas/archetypes that characterise the needs, goals, technical experience, accessibility requirements and other personal characteristics of the EduTrain main user groups and take some time to meet them!
 >
 > --
 
@@ -171,9 +171,7 @@ https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764562793822486&cot=14
 <iframe src="https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764562793822486&cot=14" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 ### ~~Data Stewards~~: Meet Robert
-Persons responsible for the management and organisation of research data in specific research projects or institutions...
-
-TODO
+Persons responsible for the management and organisation of research data in specific research projects or institutions are among the target group of EduTrain and DALIA. In regard of training and education - what kind of offers, activities and materials could support Data Stewards? What is the typical routine of a data steward? At what points do they need support?  
 
 <big><span style="color:#0abaf0" >**Please meet Data Steward Robert here:**</span></big>
 
