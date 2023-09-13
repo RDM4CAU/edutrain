@@ -87,7 +87,7 @@ The cosortia focus on subject-specific needs and interests, while the EduTrain s
 >
 >* [NFDI4Ing](https://nfdi4ing.de/archetypes/)
 >
->* <A HREF="NFDI-Personas/images/Personas_NFDI4DataScience.pdf" download>NFDI4DataScience</A>
+>* NFDI4DataScience
 >
 >**If you are aware of more existing personas/archaetypes within other NFDI consortia, please leave us a note *(preferably with a link to the resource or a contact)* at the general comment section of the persona [miro-Board](https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764563028176872&cot=14)!**
 
@@ -108,15 +108,33 @@ Please visit our Miro-Board and help us to
 
 ![Miro](NFDI-Personas/images/miro-abschnitt.png)
 
-
 >Please help us to describe personas/archetypes that characterise the needs, goals, technical experience, accessibility requirements and other personal characteristics of the EduTrain main user groups and take some time to meet them!
 >
 > --
 
 ><center><big><span style="color:#0abaf0" >**Thanks a lot for participating!**</span></big></center>
 
+### Learners 
 
-## EduTrain Subuser Groups
+Please help to describe a learner!
+
+<iframe src="https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764563238869741&cot=14" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+### Lecturers
+
+Please help to describe a lecturer!
+
+<iframe src="https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764563729042924&cot=14" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+
+### Assitants
+
+Please help to describe an assistant!
+
+<iframe src="https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764563729192386&cot=14" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+
+## For the future: EduTrain Subuser Groups
 
 On the following pages, you will find a short description of different user groups relevant for the section EduTrain and a link to a Miro-Board, where additionally may participate in describing one persona per subuser group.
 
@@ -198,10 +216,10 @@ https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764562793822486&cot=14
 
 <iframe src="https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764562793822486&cot=14" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-### Research funders: Meet Sandra
+### ~~Research funders~~: Meet Sandra
 Institutions that fund research projects can use the services and training opportunities of EduTrain/DALIA to ensure that researchers develop the necessary skills for effective data management. How can the EduTrain activities be of benefit for a representative from a research funding organisation? 
 
-### The public and interested non-experts: Meet 
+### ~~The public and interested non-experts~~: Meet Paul 
 Depending on the orientation of the training courses, members of the public and interested laypersons can also benefit from the offerings in order to develop a better understanding of research data and its importance. What kind of activities could be of interest for the public and interested non-experts?  
 
 ## Contacts
