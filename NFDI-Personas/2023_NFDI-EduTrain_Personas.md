@@ -8,7 +8,7 @@ narrator: UK English Female
 
 icon:     images/dalia-logo.png
 
-comment:  This document provides a brief introduction to research data management for lecturers. It provides an overview of rdm related topics as well as some didactic and methodologies for teaching rdm to students.
+comment:  This document was used for a side event of NFDI section EduTrain during CORDI, Karlsruhe, 14.09.2023
 
 -->
 
@@ -117,12 +117,16 @@ Please collect user groups, we can consider to be learners on top of the Miro-Bo
 
 Please help to describe a learner!
 
+https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764563238869741&cot=14
+
 <iframe src="https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764563238869741&cot=14" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 ### Lecturers
 Please collect user groups, we can consider to be lecturers on top of the Miro-Board space. If you are aware of existing personas from NFDI consortia, please assign them there, too. 
 
 Please help to describe a lecturer!
+
+https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764563729042924&cot=14
 
 <iframe src="https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764563729042924&cot=14" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
@@ -134,10 +138,12 @@ Please help to describe an assistant!
 
 <iframe src="https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764563729192386&cot=14" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
+https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764563729192386&cot=14
+
 
 ## For the future: EduTrain Subuser Groups
 
-On the following pages, you will find a short description of different user groups relevant for the section EduTrain and a link to a Miro-Board, where additionally may participate in describing one persona per subuser group.
+On the following pages, you will find a short description of different user groups relevant for the section EduTrain and a link to a Miro-Board, where you additionally may participate in describing one persona per subuser group.
 
 -> Meet the EduTrain personas on the Miro board and leave your characterising notes and comments there. Breathe some life into the personas!
 ---
@@ -150,7 +156,7 @@ On the following pages, you will find a short description of different user grou
 
 ---
 
-### ~~Students~~: Meet Malik and Lisa
+### ~~Students~~: Meet Lisa
 **The Section's premise is**: <big><span style="color:#0abaf0" >**data literacy from the start!**</span></big>
 
 Students at all levels of education are among the target groups of EduTrain and should benefit from the EduTrain services, materials and training activities on data management and analysis. What do you think, a typical student is up to? What does he/she needs to learn regarding the management of research data? How could he/she get into contact with the activities of EduTrain and [Dalia](https://dalia.education/)?
@@ -226,11 +232,11 @@ Depending on the orientation of the training courses, members of the public and 
 ## Contacts
 If you want to join WP 1 and contribute to our work, if you have ideas for us, questions, just would like to have further information or any other issue, please contact us:
 
-***Prof. Dr.-Ing. Peter Pelz***: peter.pelz@fst.tu-darmstadt.de
+**Prof. Dr.-Ing. Peter Pelz**: peter.pelz@fst.tu-darmstadt.de
 
-***Prof. Dr. rer. nat. Sonja Herres-Pawlis***: sonja.herres-pawlis@ac.rwth-aachen.de
+**Prof. Dr. rer. nat. Sonja Herres-Pawlis**: sonja.herres-pawlis@ac.rwth-aachen.de
 
-***Canan Hastik***: Canan.Hastik@fst.tu-darmstadt.de
+**Canan Hastik**: Canan.Hastik@fst.tu-darmstadt.de
 
-***Britta Petersen***: b.petersen@rz.uni-kiel.de
+**Britta Petersen**: b.petersen@rz.uni-kiel.de
 
