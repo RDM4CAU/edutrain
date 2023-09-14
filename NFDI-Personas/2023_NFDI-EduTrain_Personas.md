@@ -113,19 +113,22 @@ Please visit our Miro-Board and help us to
 ><center><big><span style="color:#0abaf0" >**Thanks a lot for participating!**</span></big></center>
 
 ### Learners 
+Please collect user groups, we can consider to be learners on top of the Miro-Board space. If you are aware of existing personas from NFDI consortia, please assign them there, too. 
 
 Please help to describe a learner!
 
 <iframe src="https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764563238869741&cot=14" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 ### Lecturers
+Please collect user groups, we can consider to be lecturers on top of the Miro-Board space. If you are aware of existing personas from NFDI consortia, please assign them there, too. 
 
 Please help to describe a lecturer!
 
 <iframe src="https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764563729042924&cot=14" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 
-### Assitants
+### Assistants
+Please collect user groups, we can consider to be assistants on top of the Miro-Board space. If you are aware of existing personas from NFDI consortia, please assign them there, too. 
 
 Please help to describe an assistant!
 
