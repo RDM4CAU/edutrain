@@ -8,11 +8,11 @@ narrator: UK English Female
 
 icon:     images/dalia-logo.png
 
-comment:  This document was used for a side event of NFDI section EduTrain during CORDI, Karlsruhe, 14.09.2023
+comment:  Version 1.0 of this document was used as a bases for a side event of NFDI section EduTrain during CORDI, Karlsruhe, 14.09.2023. Version 2.0 of this document was used for an online DALIA OER Workshop, 10.10.2023
 
 -->
 
-# Speed-Dating with EduTrain personas
+# EduTrain personas
 
 <center><img src="images/DALLE_2023-08-30_teaching-mouse.png" alt="teaching mouse in front of a board" height="350px"></center>
 
@@ -90,6 +90,21 @@ The cosortia focus on subject-specific needs and interests, while the EduTrain s
 >* NFDI4DataScience
 >
 >**If you are aware of more existing personas/archaetypes within other NFDI consortia, please leave us a note *(preferably with a link to the resource or a contact)* at the general comment section of the persona [miro-Board](https://miro.com/app/board/uXjVMptzbjA=/?moveToWidget=3458764563028176872&cot=14)!**
+
+<div style="page-break-after: always;"></div>
+
+## Personas vs. Use Cases vs. User Stories
+
+| User Persona | Use Case* | User Story* |
+| -------- | -------- | -------- |
+| A user persona is a **fictitious person** who **represents** a **specific target group**.| A use case contains **complete and lengthy descriptions**.|The user story contains **simplified and short descriptions**.|
+| It is created for a **better understanding of a specific target group** and **serves as a basis** for discussions of use cases and user stories.|It is designed to provide a detailed description, e.g. of **how a system should work**.|It is used to capture the **requirements** of a project in a **simple and concise way**. |
+|      |Usually much longer than User Stories, as a use case provides a **detailed description** of how a system should work.|It is typically written in one or two sentences and is **easy to read and understand**.|
+|      |Mostly represented in a **"flowchart" style diagram** |The standard format for user stories is **"As a [role], I desire [objective] so that [benefit]."** |
+|      |Use cases are more focused on the **system's functionalities** to build it more effectively | User stories are more focused on the **user's experience**. |
+
+*Table contents based on [Use Case vs User Story: Everything You Need to Know](https://www.knowledgehut.com/blog/agile/use-cases-how-are-they-different-from-user-stories-how-to-create-them)
+<div style="page-break-after: always;"></div>
 
 ## EduTrain: Main User Groups
 
