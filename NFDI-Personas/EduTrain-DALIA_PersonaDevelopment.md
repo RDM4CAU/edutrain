@@ -14,12 +14,14 @@ comment:  Short presentation on persona development process EduTrain Express 202
 
 # Persona development activities
 
-<center><img src="images/DALLE_2023-08-30_teaching-mouse.png" alt="teaching mouse in front of a board" height="350px"></center>
+Brief update on persona development activities (AP1/DALIA)
+---
+
+<center><img src="images/DALLE_2023-08-30_teaching-mouse.png" alt="teaching mouse in front of a board" height="300px"></center>
 
 <div style="page-break-after: always;"></div>
 
-Brief update on persona development activities (AP1/DALIA)
----
+
 
 ## What is a persona?
 
