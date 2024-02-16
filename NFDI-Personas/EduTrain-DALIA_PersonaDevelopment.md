@@ -22,7 +22,6 @@ Brief update on persona development activities (AP1/DALIA)
 <div style="page-break-after: always;"></div>
 
 
-
 ## What is a persona?
 
 >![Frage](images/teaching-mouse_what.png) <!-- width="100px" align="right" -->
@@ -35,10 +34,6 @@ Brief update on persona development activities (AP1/DALIA)
 >
 > -- [Mariana Lilley, Andrew Pyper & Sue Attwood (2012)](https://doi.org/10.11120/ital.2012.11010004)
 
-> “A persona is a fictional character built that models actual users. It’s not a real person; however, it’s built on common characteristics that your learners share.”
->
-> -- [Huprich (2019)](https://medium.com/@juliahuprich/building-learner-personas-for-instructional-design-effectiveness-8787d4e5d1d2)
-
 > “The idea: Instead of assuming an anonymous mass, people with concrete names, professions, hobbies, habits, values, etc. are created.”
 >
 > -- [NFDI4Biodiversity](https://www.nfdi4biodiversity.org/en/personas/)
@@ -47,7 +42,7 @@ Brief update on persona development activities (AP1/DALIA)
 
 ## Why personas?
 
->**Personas can in general can help us in developing, maintaining and improving EduTrain services**:
+>**Personas can in general can help us in developing, maintaining and improving EduTrain/DALIA services**:
 >
 >![Frage](images/teaching-mouse_why.png) <!-- width="100px" align="right" -->
 >
